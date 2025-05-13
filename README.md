@@ -140,7 +140,7 @@ PS C:\Tactile_Map_Generator>
 Generated STL File in 3d Viewer (Blender):
 ![image](https://github.com/user-attachments/assets/1e8aa674-b2f9-426a-9ef2-ca6aa7eab946)
 
-|    Generated Map     | Google Maps Reference |
+|    Generated Map     | Google Maps Location |
 | -------------------- | --------------------- |
 | ![image](https://github.com/user-attachments/assets/83787c41-2754-4663-8a0c-eb17bacf2a1f) | ![image](https://github.com/user-attachments/assets/f939159f-11ea-4d9f-a8ea-00b081c15d9b) |
 
